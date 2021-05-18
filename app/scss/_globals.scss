@@ -1,0 +1,71 @@
+html {
+    font-size: 100%;
+    box-sizing: border-box;
+}
+
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Public Sans', sans-serif;
+    font-size: $font-medium;
+    color: $grayishBlue;
+    font-weight: 300;
+    line-height: 1.3;
+}
+
+// Links
+a, a:visited, a:hover {
+    text-decoration: none;
+}
+
+
+// Flexbox styles
+.flex {
+    display: flex;
+    // justify-content space-between
+    &-js-sb {
+        justify-content: space-between;
+    }
+    // justify-content center
+    &-js-c {
+        justify-content: center;
+    }
+    // align-items center
+    &-ai-c {
+        align-items: center;
+    }
+}
+
+
+// Buttons
+
+// Gradient button in header
+button, .button {
+    padding: 0.875rem 2.1875rem;
+    background: linear-gradient(to right, $limeGreen, $brightCyan);
+    border: 0;
+    border-radius: 50px;
+    cursor: pointer;
+    color: $white;
+    font-weight: 400;
+}
+
+// Visibility
+
+.hide-for-mobile {
+    // hide for tablet and mobile devices
+    @include breakpoint-down(medium) {
+        display: none;
+    }
+}
+
+.hide-for-desktop {
+    // hide for desktop viewport widths
+    @include breakpoint-up(large) {
+        display: none;
+    }
+}
