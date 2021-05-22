@@ -70,10 +70,14 @@ Currently the project contains the animated navigation bar adaptable to mobile d
 
 > Navbar desktop
 
-![Navbar mobile](https://github.com/bryanAguilar001/easybank-page-challenge/blob/main/media/navbar-mobile.PNG?raw=true)
-
-> Navbar mobile
-
-![Menu mobile](https://github.com/bryanAguilar001/easybank-page-challenge/blob/main/media/menu-mobile.PNG?raw=true)
-
-> Navbar mobile
+<br>
+<table>
+  <tr>
+    <td>Navbar mobile</td>
+    <td>Menu mobile</td>
+  </tr>
+  <tr>
+    <td align="center" valign="center"><img src="https://github.com/bryanAguilar001/easybank-page-challenge/blob/main/media/navbar-mobile.PNG?raw=true" width="70%"></td>
+    <td align="center" valign="center"><img src="https://github.com/bryanAguilar001/easybank-page-challenge/blob/main/media/menu-mobile.PNG?raw=true" width="70%"></td>
+  </tr>
+ </table>
