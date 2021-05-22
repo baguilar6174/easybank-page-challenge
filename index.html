@@ -29,16 +29,16 @@
 <body>
 
   <header class="header">
-    <div class="overlay"></div>
+    <div class="overlay has-fade"></div>
     
-    <nav class="flex flex-js-sb flex-ai-c">
+    <nav class="container flex flex-js-sb flex-ai-c">
       <!-- Logo web site -->
       <a href="/" class="header__logo">
         <img src="images/logo.svg" alt="LogoLanding"/>
       </a>
 
       <!-- Icons mobile navbar -->
-      <a id="btnHamburger" href="#" class="header__menu hide-for-desktop">
+      <a id="btnHamburger" href="#" class="header__toggle hide-for-desktop">
         <span></span>
         <span></span>
         <span></span>
@@ -57,6 +57,16 @@
       <a href="#" class="button header__cta hide-for-mobile">Request Invite</a>
 
     </nav>
+
+    <!-- Mobile menu -->
+    <div class="header__menu has-fade">
+      <a href="">Home</a>
+      <a href="">About</a>
+      <a href="">Contact</a>
+      <a href="">Blog</a>
+      <a href="">Careers</a>
+    </div>
+
   </header>
 
    

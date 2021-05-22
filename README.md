@@ -45,6 +45,10 @@ In my case I have set the build directory as `dist/`. In case you configure this
 - Building overlay
 - Start working on animating the overlay
 - Create fade-out fade-in animation
+- Put menu on top of overlay
+- Animation menu
+- Troubleshooting fade-in animations
+- Lock scrolling when menu is open
 
 ## Author
 
@@ -67,5 +71,9 @@ Currently the project contains the animated navigation bar adaptable to mobile d
 > Navbar desktop
 
 ![Navbar mobile](https://github.com/bryanAguilar001/easybank-page-challenge/blob/main/media/navbar-mobile.PNG?raw=true)
+
+> Navbar mobile
+
+![Menu mobile](https://github.com/bryanAguilar001/easybank-page-challenge/blob/main/media/menu-mobile.PNG?raw=true)
 
 > Navbar mobile

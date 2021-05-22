@@ -15,11 +15,21 @@ body {
     color: $grayishBlue;
     font-weight: 300;
     line-height: 1.3;
+
+    &.noscroll {
+        overflow: hidden;
+    }
 }
 
 // Links
 a, a:visited, a:hover {
     text-decoration: none;
+}
+
+// Spacing
+.container {
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
 }
 
 
