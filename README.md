@@ -54,6 +54,10 @@ In my case I have set the build directory as `dist/`. In case you configure this
 - Using helper classes to set top/bottom and left/right spacing for sections
 - Writing desktop styles for hero using flexbox
 - Sizing and positioning the SVG background image
+- SCSS styles to use flexbox for multi-columns
+- Adjusting the flex layout for tablet
+- Adding global text styles for headlines
+- Creating content cards
 
 ## Author
 
@@ -96,8 +100,15 @@ Currently the project contains the animated navigation bar adaptable to mobile d
 <table>
   <tr>
     <td>Hero mobile</td>
+    <td>Feature mobile</td>
   </tr>
   <tr>
     <td align="center" valign="center"><img src="https://github.com/bryanAguilar001/easybank-page-challenge/blob/main/media/hero-mobile.PNG?raw=true" width="70%"></td>
+    <td align="center" valign="center"><img src="https://github.com/bryanAguilar001/easybank-page-challenge/blob/main/media/feature-mobile.PNG?raw=true" width="70%"></td>
   </tr>
 </table>
+<br>
+
+![Feature desktop](https://github.com/bryanAguilar001/easybank-page-challenge/blob/main/media/feature-desktop.PNG?raw=true)
+
+> Feature desktop
