@@ -49,6 +49,11 @@ In my case I have set the build directory as `dist/`. In case you configure this
 - Animation menu
 - Troubleshooting fade-in animations
 - Lock scrolling when menu is open
+- Writing mobile styles for hero background image SVG
+- Size and position the phone background image for mobile
+- Using helper classes to set top/bottom and left/right spacing for sections
+- Writing desktop styles for hero using flexbox
+- Sizing and positioning the SVG background image
 
 ## Author
 
@@ -81,3 +86,18 @@ Currently the project contains the animated navigation bar adaptable to mobile d
     <td align="center" valign="center"><img src="https://github.com/bryanAguilar001/easybank-page-challenge/blob/main/media/menu-mobile.PNG?raw=true" width="70%"></td>
   </tr>
  </table>
+<br>
+
+![Hero desktop](https://github.com/bryanAguilar001/easybank-page-challenge/blob/main/media/hero.PNG?raw=true)
+
+> Hero desktop
+
+<br>
+<table>
+  <tr>
+    <td>Hero mobile</td>
+  </tr>
+  <tr>
+    <td align="center" valign="center"><img src="https://github.com/bryanAguilar001/easybank-page-challenge/blob/main/media/hero-mobile.PNG?raw=true" width="70%"></td>
+  </tr>
+</table>
