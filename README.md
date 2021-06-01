@@ -58,6 +58,10 @@ In my case I have set the build directory as `dist/`. In case you configure this
 - Adjusting the flex layout for tablet
 - Adding global text styles for headlines
 - Creating content cards
+- Start adding SCSS styles, using CSS grid for multi-column layout
+- Responsive design vs intrinsic design approaches
+- Add CSS grid gap and other spacing in card
+- Add hover state using transform and transition 
 
 ## Author
 
@@ -112,3 +116,20 @@ Currently the project contains the animated navigation bar adaptable to mobile d
 ![Feature desktop](https://github.com/bryanAguilar001/easybank-page-challenge/blob/main/media/feature-desktop.PNG?raw=true)
 
 > Feature desktop
+
+![Articles desktop](https://github.com/bryanAguilar001/easybank-page-challenge/blob/main/media/articles-desktop.PNG?raw=true)
+
+> Articles desktop
+
+<br>
+<table>
+  <tr>
+    <td>Articles mobile</td>
+  </tr>
+  <tr>
+    <td align="center" valign="center"><img src="https://github.com/bryanAguilar001/easybank-page-challenge/blob/main/media/articles-mobile.PNG?raw=true" width="70%"></td>
+  </tr>
+</table>
+<br>
+
+
