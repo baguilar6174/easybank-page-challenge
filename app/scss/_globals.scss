@@ -175,3 +175,27 @@ button, .button {
         display: none;
     }
 }
+
+::-webkit-scrollbar {
+    width: 12px;
+}
+  
+::-webkit-scrollbar-track {
+    background: transparent;
+    border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: $darkBlue;
+    border-radius: 10px; 
+}
+
+.attribution {
+    padding: 1rem;
+    font-size: 15px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(136, 65%, 51%);
+}

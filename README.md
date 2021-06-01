@@ -61,7 +61,8 @@ In my case I have set the build directory as `dist/`. In case you configure this
 - Start adding SCSS styles, using CSS grid for multi-column layout
 - Responsive design vs intrinsic design approaches
 - Add CSS grid gap and other spacing in card
-- Add hover state using transform and transition 
+- Add hover state using transform and transition
+- Load social icons as inline SVGs for hover state
 
 ## Author
 
@@ -125,11 +126,17 @@ Currently the project contains the animated navigation bar adaptable to mobile d
 <table>
   <tr>
     <td>Articles mobile</td>
+    <td>Footer mobile</td>
   </tr>
   <tr>
     <td align="center" valign="center"><img src="https://github.com/bryanAguilar001/easybank-page-challenge/blob/main/media/articles-mobile.PNG?raw=true" width="70%"></td>
+    <td align="center" valign="center"><img src="https://github.com/bryanAguilar001/easybank-page-challenge/blob/main/media/footer-mobile.PNG?raw=true" width="70%"></td>
   </tr>
 </table>
 <br>
+
+![Footer desktop](https://github.com/bryanAguilar001/easybank-page-challenge/blob/main/media/footer-desktop.PNG?raw=true)
+
+> Footer desktop
 
 
