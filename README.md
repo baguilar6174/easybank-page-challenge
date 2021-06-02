@@ -74,10 +74,6 @@ In my case I have set the build directory as `dist/`. In case you configure this
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-## Project status
-
-Currently the project contains the animated navigation bar adaptable to mobile devices. The next step will be to add the navigation menu to be visible on mobiles.
-
 ## Easybanck Page
 
 ![Navbar desktop](https://github.com/bryanAguilar001/easybank-page-challenge/blob/main/media/navbar-desktop.PNG?raw=true)
