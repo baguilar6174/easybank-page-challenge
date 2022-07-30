@@ -66,7 +66,7 @@ In my case I have set the build directory as `dist/`. In case you configure this
 
 ## Author
 
-- Website - [bryanaguilar](https://bryanaguilar.gatsbyjs.io/)
+- Website - [bryanaguilar](https://www.bryan-aguilar.com/)
 - Medium - [bryanaguilar6174](https://bryanaguilar6174.medium.com/)
 - LinkeIn - [bryanaguilar6174](https://www.linkedin.com/in/bryanaguilar6174)
 
